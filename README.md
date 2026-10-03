@@ -5,8 +5,7 @@ Berisi biodata anggota, CV ATS, dokumentasi kegiatan, dan peta negara impian (wi
 
 > Lewati tak terhingga, Menuju tak terbatas!
 
-**Link website:** [ISI LINK IPB.LINK SETELAH TERSEDIA]
-**Link Vercel:** [ISI LINK VERCEL SETELAH DEPLOY]
+**Link website:** Menyusul
 
 ---
 
@@ -100,8 +99,8 @@ Aturan berkas:
 Project ini adalah situs statis. Di Vercel tidak diperlukan pengaturan build:
 
 - **Framework Preset:** Other
-- **Build Command:** kosongkan
-- **Output Directory:** kosongkan (folder utama)
+- **Build Command:** -
+- **Output Directory:** -
 
 Alur: **GitHub Repository → Vercel → URL Vercel → ipb.link**
 
