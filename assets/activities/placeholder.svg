@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#D5E0C8"/>
+  <rect x="4" y="4" width="592" height="392" fill="none" stroke="#111" stroke-width="8"/>
+  <path d="M0 0 L600 400 M600 0 L0 400" stroke="#5F7A4F" stroke-width="4"/>
+  <rect x="150" y="165" width="300" height="70" fill="#FFD84D" stroke="#111" stroke-width="6"/>
+  <text x="300" y="212" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#111">FOTO KEGIATAN</text>
+</svg>
