@@ -45,7 +45,7 @@ const anggota = [
     mataKuliahFavorit: "Basis Data",
     foto: "assets/members/rai.png",
     sosmed: { instagram: "https://www.instagram.com/raisz.szm/", linkedin: "https://www.linkedin.com/in/m-raisza-zamzami-a11069380/", github: "https://github.com/raiszicski" },
-    cv: "assets/cv/rai.pdf"
+    cv: "assets/cv/rai-cv.pdf"
   },
   {
     id: "chalisa",
